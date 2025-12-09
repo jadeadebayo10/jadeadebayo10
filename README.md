@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6b541737-e114-47fd-b5a1-64cb9300d855)
 
-<h1 align="center">About Me</h1>
+<h1 align="center">✧ About Me ✧</h1>
 
 ---
 🎓 CS major @ Georgia State University 
@@ -22,35 +22,63 @@ Outside of coding, I care about journaling, reflecting, connecting with others, 
 
 ---
 
-<h1 align="center">Tech Stack</h1>
-<h3>- Languages:</h3>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python"/> &nbsp;<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" alt="Java"/>&nbsp;<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"/>
-<h3>- Data Science:</h3>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="40" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="40" alt="scikit-learn"/>
-<h3>- Web Dev</h3>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"/>
-<h3>- Tools</h3> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" alt="Jupyter"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/google-colab/google-colab.png" width="40" alt="Colab"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" alt="GitHub"/>
-- Databases: SQL
+<h1 align="center">✧ Tech Stack ✧</h1>
+<p>
+  <strong>Data Science:</strong> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="40" alt="Pandas"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40" alt="NumPy"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="40" alt="scikit-learn"/> &nbsp;&nbsp;
 
+  <strong>Web Dev:</strong> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"/> &nbsp;&nbsp;
+
+  <strong>Tools:</strong> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" alt="Jupyter"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-colab/google-colab.png" width="40" alt="Colab"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" alt="Git"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" alt="GitHub"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" alt="VS Code"/> &nbsp;&nbsp;
+
+  <strong>Databases:</strong> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="40" alt="SQL"/>
+</p>
 ---
 
-### 🚀 Projects
-#### Clothing Swap Website
+<h1 align="center">✧ Current Projects ✧</h1>
+
+## 💻 AI Assisted Recruitment System
+
+Building an AI-powered recruitment tool that matches candidates with job postings using NLP, vector embeddings, and clustering algorithms. The goal is to make resume-to-job matching faster, smarter, and more efficient.
+
+Key highlights:
+
+- Processes and categorizes thousands of resumes and job postings
+
+- Implements AI techniques to suggest best-fit candidates
+
+- Designed with a focus on usability and practical impact
+
+🔗 [Check It Out!](https://github.com/jadeadebayo10/ai-recruitment)
+
+---
+## 👔 Clothing Swap Website
+
 Built a website for swapping, donating, and selling clothes to promote sustainable fashion.
 Handled the back-end development
 Deployed successfully with positive user feedback on usability and accuracy
 
-#### 🌦️ Weather Prediction App (In Progress)
-Real-time weather forecasting using APIs and historical data.  
-`Python · Flask · OpenWeatherMap API · JSON`
+Key highlights:
+
+- Developed the back-end to manage listings, user accounts, and transactions
+
+- Deployed successfully with positive user feedback on usability and accuracy
+
+- Focused on building an intuitive and accessible user experience
+
+🔗 [Check It Out!](https://github.com/jadeadebayo10/Green-Space-Web)
+
 
 ---
 
@@ -63,6 +91,10 @@ Built responsive front-end sites with modern HTML/CSS/JS practices.
 #### 💻 Intro to CS @ W3Schools
 Completed W3Schools’ Introduction to Computer Science Certificate  
 `CS Basics · Programming Logic · Web Dev Fundamentals`
+
+#### Break Through Tech AI Fellow
+Completed Machine Learning Foundations Course
+`Machine Learning · Linear Models · Data Evaluation · Ensemble Methods · NLP`
 
 ---
 
@@ -80,7 +112,5 @@ Email: jadeadebayo10@gmail.com
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadeadebayo10&show_icons=true&theme=radical" />
-</p>
+<p align="left"> <!-- Overall contributions --> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jadeadebayo10&show_icons=true&theme=react"/> <!-- Top languages --> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeadebayo10&layout=compact&theme=react"/> </p> <!-- Streak stats --> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadeadebayo10&theme=react"/> </p>
 
