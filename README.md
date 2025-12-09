@@ -1,24 +1,43 @@
-<h1 align="center">Helloo:), I'm Jade!</h1>
+![image](https://github.com/user-attachments/assets/6b541737-e114-47fd-b5a1-64cb9300d855)
 
-<p align="center">
-  💻 CS Major | 💡 Break Through Tech Fellow | 🌐 Web Developer | ☁️ Building a Weather Prediction App
-</p>
+<h1 align="center">About Me</h1>
+
+---
+🎓 CS major @ Georgia State University 
+
+💡 Break Through Tech Fellow at Cornell Tech  
+
+📚 Interested in machine learning, web development, and creative coding
+ 
+I love building tech that feels simple, useful, and thoughtful. Over the last few years, I’ve explored projects ranging from web apps and automation tools to AI experiments and small full-stack projects.
+
+As a Break Through Tech Fellow, i'm learning through programs, mentorship, and hands-on projects, I’ve grown by experimenting, asking questions, and taking initiative on things that push me out of my comfort zone. I enjoy learning new tools like Python, Java, and React, experimenting with small projects, and figuring out how to turn ideas into practical solutions. I’m still early in my CS journey, but I’m intentional about growing my skills, learning from others, and exploring areas that feel exciting and meaningful.
+
+Right now, I’m focusing on strengthening my Python, Java, and AI skills, exploring software engineering and web development, and looking for opportunities where I can contribute, learn, and collaborate with others.
+
+Outside of coding, I care about journaling, reflecting, connecting with others, and just making space to grow.
+
+- Email: jadeadebayo10@gmail.com
+- LinkedIn: www.linkedin.com/in/jadesolaadebayo
 
 ---
 
-### 👩🏽‍💻 About Me
-- 🎓 CS major with a passion for building intuitive tech solutions  
-- 💡 Break Through Tech Fellow at Cornell Tech  
-- 🌦️ Currently working on a **Weather Prediction App**  
-- 📚 Interested in machine learning, web development, and creative coding  
-
----
-
-### 🛠️ Tech Stack
-- Languages: Python, Java
-- Data Science: Pandas, NumPy, scikit-learn
-- Web Dev: HTML, CSS, JavaScript
-- Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+<h1 align="center">Tech Stack</h1>
+<h3>- Languages:</h3>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python"/> &nbsp;<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40" alt="Java"/>&nbsp;<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"/>
+<h3>- Data Science:</h3>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="40" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="40" alt="scikit-learn"/>
+<h3>- Web Dev</h3>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"/>
+<h3>- Tools</h3> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" alt="Jupyter"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/google-colab/google-colab.png" width="40" alt="Colab"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" alt="GitHub"/>
 - Databases: SQL
 
 ---
